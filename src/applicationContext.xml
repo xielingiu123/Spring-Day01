@@ -11,5 +11,5 @@
 	<bean name="factory" class="it.cn.b_create.UserFactory"></bean>
 	
 	<!-- Spring的放模块化配置 导入其他配置文件 -->
-	 <import resource=""/>
+	<!-- <import resource=""/>-->
 </beans>
